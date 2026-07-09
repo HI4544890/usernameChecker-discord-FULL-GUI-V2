@@ -8,7 +8,7 @@ A simple tool to check username availability and monitor stats. Built using Pyth
 - Proxy support to avoid getting rate-limited.
 - Multi-language interface.
 - Custom dark themes.
-- Clean status bar at the bottom with live stats.
+- Nice color and comfortable to eyes
 
 ## Running from source
 
